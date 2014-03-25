@@ -1,3 +1,4 @@
+=begin not in example app
 require 'spec_helper'
 
 describe StaticPagesController do
@@ -10,3 +11,4 @@ describe StaticPagesController do
   end
 
 end
+=end
